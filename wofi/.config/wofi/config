@@ -1,0 +1,9 @@
+show=drun
+prompt=Run:
+term=kitty
+width=500
+lines=10
+stylesheet=style.css
+allow_images=true
+
+
