@@ -5,5 +5,7 @@ width=500
 lines=10
 stylesheet=style.css
 allow_images=true
+insensitive=true
+sort_order=default
 
 

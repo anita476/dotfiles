@@ -1,7 +1,7 @@
 @import "colors.css"; 
 
 * {
-    font-family: "MesloLGS Nerd Font Mono";
+    font-family: "MesloLGS Nerd Font Mono", monospace;
     font-size: 16px;
     min-height: 0;
    /* font-weight: bold;*/
